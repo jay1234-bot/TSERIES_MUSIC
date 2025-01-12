@@ -30,7 +30,7 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("ѕυρρσɾƚ", url="https://t.me/MBV_CHATS"),
-          InlineKeyboardButton("⌯꯭ 𝐇꯭ ꯭ꭎ ꯭η ꯭𝗍 𝛆꯭ ʀ ꯭🥂꯭ 𝗫꯭ ꯭ᴅ ", url="https://t.me/censored_politicsss"),
+          InlineKeyboardButton("ᴋʀɪꜱʜᴀɴ 𝗣𝗼𝗹𝗶𝘁𝗶𝗰𝘀 #𝗠𝗕𝗩", url="https://t.me/censored_politicsss"),
           ],
                [
                 InlineKeyboardButton("ᴏᴛʜᴇʀ ʙᴏᴛs", url=f"https://t.me/MBV_NETWORK"),
