@@ -21,13 +21,6 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-## 🖇 Generating Pyrogram String Session
-
-<p>
-<a href="https://t.me/KsdStringSessionbot"><img src="https://img.shields.io/badge/KSD%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/riyaXmusicbot-Gen"><img src="https://img.shields.io/badge/RIYA%20MUSIC%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-
-
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
@@ -35,7 +28,7 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ksdofficial8/Riya_music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/jay1234-bot/RIYA_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -43,7 +36,7 @@
 <a href="https://telegram.me/MBV_CHATS"><img src="https://img.shields.io/badge/-☆𝐉𝐎𝐈𝐍 𝐓𝐎 𝐌𝐁𝐕%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/BLACKMAMBA_HU_BRO"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗛𝗨𝗡𝗧𝗘𝗥 𝗫𝗗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/BLACKMAMBA_HU_BRO"><img src="https://img.shields.io/badge/-☆DM TO CO-FOUNDER%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -77,5 +70,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
-<a href="https://t.me/ksdofficial84"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/censored_politicsss"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
