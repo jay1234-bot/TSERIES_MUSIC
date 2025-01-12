@@ -15,7 +15,7 @@ Yumikoo_text = [
 "hey please don't disturb me.",
 "who are you",    
 "aap kon ho",
-"aap mere owner to nhi lgte ",
+"aap mere owner to nhi lgte mere owner krishan hai ",
 "hey tum mera name kyu le rhe ho meko sone do",
 "ha bolo kya kaam hai ",
 "dekho abhi mai busy hu ",
