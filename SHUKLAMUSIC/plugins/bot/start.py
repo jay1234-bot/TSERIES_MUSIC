@@ -34,7 +34,7 @@ YUMI_PICS = [
 "https://envs.sh/vPh.jpg",
 "https://envs.sh/vPd.jpg",
 "https://envs.sh/vP2.jpg",
-"https://envs.sh/vPu.jpg",
+"https://envs.sh/vPt.jpg",
 "https://envs.sh/vPF.jpg",
 "https://envs.sh/vPt.jpg",
 "https://envs.sh/vPe.jpg",
