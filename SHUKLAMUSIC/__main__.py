@@ -43,7 +43,7 @@ async def init():
         await SHUKLA.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
     except NoActiveGroupCall:
         LOGGER("SHUKLAMUSIC").error(
-            "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
+            "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n𝗧-𝗦𝗘𝗥𝗜𝗘𝗦 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
         )
         exit()
     except:
@@ -55,7 +55,7 @@ async def init():
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("SHUKLAMUSIC").info("𝗦𝗧𝗢𝗣 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
+    LOGGER("SHUKLAMUSIC").info("𝗦𝗧𝗢𝗣 𝗧-𝗦𝗘𝗥𝗜𝗘𝗦 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
 
 
 if __name__ == "__main__":
