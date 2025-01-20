@@ -29,14 +29,14 @@ async def start(_, msg):
           InlineKeyboardButton("♡ α∂∂ иσω ♡", url=f"https://t.me/MBV_MUSICG_BOT?startgroup=true")
         ],
         [
-          InlineKeyboardButton("ѕυρρσɾƚ", url="https://t.me/MBV_CHATS"),
+          InlineKeyboardButton("ѕυρρσɾƚ", url="https://t.me/TSERIESSUPPORTCHAT"),
           InlineKeyboardButton("ᴋʀɪꜱʜᴀɴ 𝗣𝗼𝗹𝗶𝘁𝗶𝗰𝘀 #𝗠𝗕𝗩", url="https://t.me/censored_politicsss"),
           ],
                [
                 InlineKeyboardButton("ᴏᴛʜᴇʀ ʙᴏᴛs", url=f"https://t.me/TEAMTSERIESBOTS"),
 ],
 [
-InlineKeyboardButton("ᴄʜᴇᴄᴋ", url=f"https://t.me/MBV_MUSICG_BOT"),
+InlineKeyboardButton("ᴄʜᴇᴄᴋ", url=f"https://t.me/SHAYRI_K1_DUNIYA"),
 
         ]]
     
