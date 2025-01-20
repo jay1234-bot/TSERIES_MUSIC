@@ -7,7 +7,7 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """
-❥ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛᴇᴀᴍ ᴍʙᴠ 
+❥ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛᴇᴀᴍ T-SERIES 
 
 ❥ ʀᴇᴘᴏ ᴄʜᴀᴀʜɪʏE ᴛᴏ ʙᴏᴛ ᴋᴏ 
 
@@ -33,7 +33,7 @@ async def start(_, msg):
           InlineKeyboardButton("ᴋʀɪꜱʜᴀɴ 𝗣𝗼𝗹𝗶𝘁𝗶𝗰𝘀 #𝗠𝗕𝗩", url="https://t.me/censored_politicsss"),
           ],
                [
-                InlineKeyboardButton("ᴏᴛʜᴇʀ ʙᴏᴛs", url=f"https://t.me/MBV_NETWORK"),
+                InlineKeyboardButton("ᴏᴛʜᴇʀ ʙᴏᴛs", url=f"https://t.me/TEAMTSERIESBOTS"),
 ],
 [
 InlineKeyboardButton("ᴄʜᴇᴄᴋ", url=f"https://t.me/MBV_MUSICG_BOT"),
