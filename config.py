@@ -20,7 +20,7 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "MBV_MUSICG_BOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "MBV MUSIC")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "blackmamba_hu_vro")
+ASSUSERNAME = getenv("ASSUSERNAME" , "GODFATHER_LEGEND")
 # ---------------------------------------------------------
 
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MBV_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MBV_CHATS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TSERIESUPDATESS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TSERIESSUPPORTCHAT")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
