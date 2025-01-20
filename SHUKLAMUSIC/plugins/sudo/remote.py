@@ -39,7 +39,7 @@ async def rpromote(client, message: Message):
         user_id = user.id
         mention = f"<a href=tg://user?id={user_id}>{first_name}</a>"
     
-    AMBOT = await message.reply_text(f"#ʀᴇᴍᴏᴛᴇ_ᴘʀᴏᴍᴏᴛᴇ\nᴘʀᴏᴍᴏᴛᴇ ᴜꜱᴇʀ : {mention}\nᴛᴀʀɢᴇᴛ ɢʀᴏᴜᴘ ɪᴅ : <code>{group_id}</code>\n\nᴘᴏᴡᴇʀ ʙʏ : @Itz_SapnaMusicbot")
+    AMBOT = await message.reply_text(f"#ʀᴇᴍᴏᴛᴇ_ᴘʀᴏᴍᴏᴛᴇ\nᴘʀᴏᴍᴏᴛᴇ ᴜꜱᴇʀ : {mention}\nᴛᴀʀɢᴇᴛ ɢʀᴏᴜᴘ ɪᴅ : <code>{group_id}</code>\n\nᴘᴏᴡᴇʀ ʙʏ : @Censored_politicsss")
     
     try:
         await app.promote_chat_member(
@@ -61,12 +61,7 @@ async def rpromote(client, message: Message):
         await AMBOT.edit(f"An error occurred: {str(e)}")
         return
     
-    await AMBOT.edit(f"#ʀᴇᴍᴏᴛᴇ_ᴘʀᴏᴍᴏᴛᴇᴅ\nᴘʀᴏᴍᴏᴛᴇᴅ ᴜꜱᴇʀ : {mention}\nᴛᴀʀɢᴇᴛ ɢʀᴏᴜᴘ ɪᴅ : <code>{group_id}</code>\n\nᴘᴏᴡᴇʀ ʙʏ : @Itz_SapnaMusicbot")
-
-@app.on_message(filters.command("demoteme") & filters.user(OWNER_ID))
-async def rpromote(client, message: Message):
-    try:
-        user_id, group_id = message.text.split(maxsplit=2)[1:]
+    await AMBOT.edit(f"#ʀᴇᴍᴏᴛᴇ_ᴘʀᴏᴍᴏᴛᴇᴅ\nᴘʀᴏᴍᴏᴛᴇᴅ ᴜꜱᴇʀ : {mention}\nᴛᴀʀɢᴇᴛ ɢʀᴏᴜᴘ ɪᴅ : <code>{group_id}</code>\n\nᴘᴏᴡᴇʀ ʙʏ : @censored_politicsss
     except ValueError:
         return await message.reply_text("ᴘʟᴇᴀꜱᴇ ᴘʀᴏᴠɪᴅᴇ Group id.")
     
@@ -80,7 +75,7 @@ async def rpromote(client, message: Message):
         user_id = user.id
         mention = f"<a href=tg://user?id={user_id}>{first_name}</a>"
     
-    AMBOT = await message.reply_text(f"#ʀᴇᴍᴏᴛᴇ_ᴘʀᴏᴍᴏᴛᴇ\nᴘʀᴏᴍᴏᴛᴇ ᴜꜱᴇʀ : {mention}\nᴛᴀʀɢᴇᴛ ɢʀᴏᴜᴘ ɪᴅ : <code>{group_id}</code>\n\nᴘᴏᴡᴇʀ ʙʏ : @Itz_SapnaMusicbot")
+    AMBOT = await message.reply_text(f"#ʀᴇᴍᴏᴛᴇ_ᴘʀᴏᴍᴏᴛᴇ\nᴘʀᴏᴍᴏᴛᴇ ᴜꜱᴇʀ : {mention}\nᴛᴀʀɢᴇᴛ ɢʀᴏᴜᴘ ɪᴅ : <code>{group_id}</code>\n\nᴘᴏᴡᴇʀ ʙʏ : @censored_politicsss")
     
     try:
         await app.promote_chat_member(
